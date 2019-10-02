@@ -73,7 +73,7 @@ tk.mainloop()
 
 import sys
 
-print "你好，世界！"
+print("你好，世界！")
 ```
 
 这里第一行的注释就告诉解释器将此文件作为UTF-8编码进行解释。如果没有第一行，在执行此Python文件的时候就会这种错误：“SyntaxError: Non-ASCII character '\xe4' in file /Users/zenny-chen/programs/Python/test.py on line 9, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details”。
