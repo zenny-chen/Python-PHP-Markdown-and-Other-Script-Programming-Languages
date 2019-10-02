@@ -1,4 +1,4 @@
-# Python-PHP-and-Other-Script-Programming-Languages
+# Python, PHP and Other Script Programming Languages
 Python、PHP与其他脚本语言
 
 1. [Python（2.x）](https://docs.python.org/2/)
