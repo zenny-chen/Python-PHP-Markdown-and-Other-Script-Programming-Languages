@@ -14,6 +14,7 @@ Python、PHP与其他脚本语言
 1. [Python将字节串转为整数](https://blog.csdn.net/wbdxz/article/details/82153550)
 1. [Python线程创建的两种方法](https://blog.csdn.net/nicholas_dlut/article/details/80800396)
 1. [Python3之数组（array）](https://cloud.tencent.com/developer/article/1406351)
+1. [python中base64编码与解码](https://www.cnblogs.com/zanjiahaoge666/p/7242642.html)
 1. [在Python3里有的变量前面有个\*号，或许你不知道，没关系，看文](https://www.toutiao.com/a6728656306883789316)
 1. [理解Python的协程(Coroutine)](https://www.jianshu.com/p/84df78d3225a)
 1. [Python协程深入理解](https://www.cnblogs.com/zhaof/p/7631851.html)
