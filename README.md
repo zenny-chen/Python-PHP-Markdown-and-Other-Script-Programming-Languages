@@ -26,7 +26,7 @@ Python、PHP与其他脚本语言
 1. [PHP中pack、unpack的详细用法](https://segmentfault.com/a/1190000008305573)
 1. [php高级知识：非阻塞模式与PHP多进程](https://www.toutiao.com/a6725332273668817419)
 1. [Lua教程](http://www.runoob.com/lua/lua-tutorial.html)
-1. [Native Extensions for the Standalone Dart VM](https://www.dartlang.org/articles/server/native-extensions)
+1. [Native Extensions for the Standalone Dart VM](https://dart.dev/guides/libraries/c-interop)
 
 <br />
 
