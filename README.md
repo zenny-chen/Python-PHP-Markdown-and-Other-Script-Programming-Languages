@@ -16,6 +16,7 @@ Python、PHP与其他脚本语言
 1. [Python3之数组（array）](https://cloud.tencent.com/developer/article/1406351)
 1. [python中base64编码与解码](https://www.cnblogs.com/zanjiahaoge666/p/7242642.html)
 1. [在Python3里有的变量前面有个\*号，或许你不知道，没关系，看文](https://www.toutiao.com/a6728656306883789316)
+1. [Python里面这些点，据说80%的新手学习都会一脸懵逼](https://www.toutiao.com/i6754640229165974030/)
 1. [理解Python的协程(Coroutine)](https://www.jianshu.com/p/84df78d3225a)
 1. [Python协程深入理解](https://www.cnblogs.com/zhaof/p/7631851.html)
 1. [python编程_秒懂if \_\_name\_\_ == "\_\_main\_\_"](https://www.toutiao.com/a6753082183482606087/)
