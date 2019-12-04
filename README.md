@@ -34,10 +34,12 @@ Python、PHP与其他脚本语言
 
 ### Ubuntu下安装Python的常用工具：
 
-安装基于Python 2.7的pip工具，只需要输入命令行：`sudo apt-get install python-pip`
-安装基于Python 3.x的pip工具，只需要输入命令行：`sudo apt-get install python3-pip`
-对于Python 2.7安装easy_install：`sudo apt-get install python-setuptools`
+安装基于Python 2.7的pip工具，只需要输入命令行：`sudo apt-get install python-pip`    
+安装基于Python 3.x的pip工具，只需要输入命令行：`sudo apt-get install python3-pip`    
+对于Python 2.7安装easy_install：`sudo apt-get install python-setuptools`    
 对于Python 3.x安装easy_install：`sudo apt-get install python3-setuptools`
+
+安装完pip工具之后，如果要安装numpy等Python库，则可以用：`python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose`。这里要注意的是，在Windows系统下安装需要使用命令行选项`--user`。
 
 <br />
 
