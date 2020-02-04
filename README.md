@@ -20,6 +20,7 @@ Python、PHP与其他脚本语言
 1. [理解Python的协程(Coroutine)](https://www.jianshu.com/p/84df78d3225a)
 1. [Python协程深入理解](https://www.cnblogs.com/zhaof/p/7631851.html)
 1. [python编程_秒懂if \_\_name\_\_ == "\_\_main\_\_"](https://www.toutiao.com/a6753082183482606087/)
+1. [Python 判断变量是否是 None 的三种写法](https://www.toutiao.com/a6756516715061838343/)
 1. [PHP中文手册](http://tool.oschina.net/apidocs/apidoc?api=php-zh)
 1. [利用php调用C语言——使用扩展函数](http://c.biancheng.net/cpp/html/1401.html)
 1.  [php调用C函数的一种方式——通过执行命令行](https://www.cnblogs.com/freeweb/p/5645699.html)
