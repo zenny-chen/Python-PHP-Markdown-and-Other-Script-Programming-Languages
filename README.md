@@ -29,6 +29,7 @@ Python、PHP与其他脚本语言
 1. [PHP: 深入pack/unpack 字节序](https://www.cnblogs.com/andydao/p/4200662.html)
 1. [PHP中pack、unpack的详细用法](https://segmentfault.com/a/1190000008305573)
 1. [php高级知识：非阻塞模式与PHP多进程](https://www.toutiao.com/a6725332273668817419)
+1. [php架构之CGI、FastCGI、php-fpm有什么关系？原来这么简单](https://www.toutiao.com/a6765084314993426952/)
 1. [Lua教程](http://www.runoob.com/lua/lua-tutorial.html)
 1. [C interop using dart:ffi](https://dart.dev/guides/libraries/c-interop)
 
