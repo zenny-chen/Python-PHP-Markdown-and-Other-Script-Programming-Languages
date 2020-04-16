@@ -33,6 +33,7 @@ Python、PHP与其他脚本语言
 - [Lua教程](http://www.runoob.com/lua/lua-tutorial.html)
 - [C interop using dart:ffi](https://dart.dev/guides/libraries/c-interop)
 - [Flutter 使用阿里巴巴icon库](https://www.toutiao.com/a6809520001628766723/)
+- [go runtime 简析](https://www.toutiao.com/a6801023322407567885/)
 
 <br />
 
