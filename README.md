@@ -15,8 +15,9 @@ Python、PHP与其他脚本语言
 - [Python线程创建的两种方法](https://blog.csdn.net/nicholas_dlut/article/details/80800396)
 - [Python3之数组（array）](https://cloud.tencent.com/developer/article/1406351)
 - [Python——contains方法](https://blog.csdn.net/m0_52162042/article/details/121544313)
+- [python中的None与NULL用法说明](https://blog.csdn.net/liuqinhou/article/details/126192298)
 - [python中base64编码与解码](https://www.cnblogs.com/zanjiahaoge666/p/7242642.html)
-- [python获取当前目录路径和文件](https://blog.csdn.net/u012808186/article/details/118540693)
+- [python获取当前目录路径和文件](https://blog.csdn.net/u012808186/article/details/118540693)（还有一种是：**`sys.path[0]`**）
 - [Python: Copy a File \(4 Different Ways\)](https://datagy.io/python-copy-file/)
 - [Python判断文件是否存在的三种方法](https://www.cnblogs.com/jhao/p/7243043.html)
 - [在Python3里有的变量前面有个\*号，或许你不知道，没关系，看文](https://www.toutiao.com/a6728656306883789316)
