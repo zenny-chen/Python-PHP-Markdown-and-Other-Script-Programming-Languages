@@ -15,6 +15,7 @@ Python、PHP与其他脚本语言
 - [Python线程创建的两种方法](https://blog.csdn.net/nicholas_dlut/article/details/80800396)
 - [Python3之数组（array）](https://cloud.tencent.com/developer/article/1406351)
 - [Python——contains方法](https://blog.csdn.net/m0_52162042/article/details/121544313)
+- [Python offers many ways to substring a string. This is often called "slicing".](https://www.freecodecamp.org/news/how-to-substring-a-string-in-python/)
 - [python中的None与NULL用法说明](https://blog.csdn.net/liuqinhou/article/details/126192298)
 - [python中base64编码与解码](https://www.cnblogs.com/zanjiahaoge666/p/7242642.html)
 - [python获取当前目录路径和文件](https://blog.csdn.net/u012808186/article/details/118540693)（还有一种是：**`sys.path[0]`**）
