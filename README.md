@@ -21,6 +21,7 @@ Python、PHP与其他脚本语言
 - [python获取当前目录路径和文件](https://blog.csdn.net/u012808186/article/details/118540693)（还有一种是：**`sys.path[0]`**）
 - [Python: Copy a File \(4 Different Ways\)](https://datagy.io/python-copy-file/)
 - [python shutil.move 移动文件](https://blog.csdn.net/seanblog/article/details/78885423)
+- [Python os.rename()函数：重命名文件或目录](http://c.biancheng.net/view/4943.html)
 - [Python判断文件是否存在的三种方法](https://www.cnblogs.com/jhao/p/7243043.html)
 - [在Python3里有的变量前面有个\*号，或许你不知道，没关系，看文](https://www.toutiao.com/a6728656306883789316)
 - [Python里面这些点，据说80%的新手学习都会一脸懵逼](https://www.toutiao.com/i6754640229165974030/)
