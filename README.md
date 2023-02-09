@@ -23,6 +23,8 @@ Python、PHP与其他脚本语言
 - [python shutil.move 移动文件](https://blog.csdn.net/seanblog/article/details/78885423)
 - [Python os.rename()函数：重命名文件或目录](http://c.biancheng.net/view/4943.html)
 - [Python判断文件是否存在的三种方法](https://www.cnblogs.com/jhao/p/7243043.html)
+- [python文件的读取](https://blog.csdn.net/qq_45011164/article/details/127584512)
+- [Python open函数详解](https://blog.csdn.net/weixin_44449116/article/details/122799242)
 - [在Python3里有的变量前面有个\*号，或许你不知道，没关系，看文](https://www.toutiao.com/a6728656306883789316)
 - [Python里面这些点，据说80%的新手学习都会一脸懵逼](https://www.toutiao.com/i6754640229165974030/)
 - [理解python中yield关键字](https://blog.csdn.net/libbyandhelen/article/details/78957369)
