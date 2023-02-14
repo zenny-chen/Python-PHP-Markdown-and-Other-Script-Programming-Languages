@@ -49,6 +49,36 @@ Python、PHP与其他脚本语言
 
 <br />
 
+### Python2与Python3过滤非法的ASCII字符
+
+```python
+# -*- coding: utf-8 -*-
+
+import sys
+
+def filterValidASCIIChars(srcBytes):
+    dstStr = ''
+
+    if sys.version_info.major > 2:
+        for ch in srcBytes:
+            if ch < 0x80:
+                dstStr += str(chr(ch))
+
+    else:
+        for ch in srcBytes:
+            if ord(ch) < 0x80:
+                dstStr += str(ch)
+
+    return dstStr
+
+
+srcBytes = b'\x30\x31\x80\xff\x32\x33'
+dstStr = filterValidASCIIChars(srcBytes)
+print('dstStr is: ' + dstStr)
+```
+
+<br />
+
 ### Ubuntu下安装Python的常用工具：
 
 安装基于Python 2.7的pip工具，只需要输入命令行：`sudo apt-get install python-pip`    
