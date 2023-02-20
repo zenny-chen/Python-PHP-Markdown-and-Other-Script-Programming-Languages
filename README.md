@@ -130,3 +130,46 @@ print("你好，世界！")
 
 这里第一行的注释就告诉解释器将此文件作为UTF-8编码进行解释。如果没有第一行，在执行此Python文件的时候就会这种错误：“SyntaxError: Non-ASCII character '\xe4' in file /Users/zenny-chen/programs/Python/test.py on line 9, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details”。
 
+<br />
+
+## Markdown语法相关
+
+- [Learning-Markdown (Markdown 入门参考)](http://blog.didispace.com/books/learning-markdown/)
+- [GitHub所支持的语法高亮的编程语言](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)（如果存在 **`aliases`** 字段，则使用该字段下列出的某个标识符来标识此编程语言。）
+- [Syntax highlighting in markdown](https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown)
+- [GitHub上README.md编写教程（基本语法）](https://blog.csdn.net/m0_37885651/article/details/86642692)
+- Github、Gitlab等可支持NASM汇编语法高亮，即 **`nasm`**。
+- [How to add color to Github's README.md file](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
+- CSDN的MD编辑器实现页内跳转：
+```markdown
+<a id="article_top"></a>文章顶部
+
+标题：Markdown 怎么实现页内跳转的
+
+内容：
+
+一、创建锚点
+
+二、引用锚点 
+
+<a id="example"></a>三、实例讲解
+
+总结:
+
+一、xxx
+
+二、xxx
+
+三、xxx
+	
+[回到顶部](#article_top)
+
+如果不太懂，可以直接看[实例讲解](#example)，把 Markdown 格式文章结合显示效果研究一下。
+```
+- Gitlab的MD编辑器实现页内跳转：
+```markdown
+[to_be_link](#id_name)
+ 
+标题：
+## 2.aaa <a name="id_name"></a>
+```
