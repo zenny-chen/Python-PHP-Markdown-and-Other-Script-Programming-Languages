@@ -11,6 +11,7 @@ Python、PHP与其他脚本语言
 - [python 中pack和unpack的用法](https://blog.csdn.net/fengjinghuanian/article/details/83994585)
 - [python--常用的十进制、16进制、字符串、字节串之间的转换](https://www.cnblogs.com/fqfanqi/p/7900758.html)
 - [Python将字节串转为整数](https://blog.csdn.net/wbdxz/article/details/82153550)
+- [python字符串替换的2种方法](https://www.cnblogs.com/jacob-gn/p/16019591.html)
 - [python中时间、日期、时间戳的转换](https://www.cnblogs.com/jfl-xx/p/8024596.html)
 - [Python线程创建的两种方法](https://blog.csdn.net/nicholas_dlut/article/details/80800396)
 - [Python3之数组（array）](https://cloud.tencent.com/developer/article/1406351)
