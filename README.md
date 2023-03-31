@@ -47,6 +47,7 @@ Python、PHP、Markdown与其他脚本语言
 - [C interop using dart:ffi](https://dart.dev/guides/libraries/c-interop)
 - [Flutter 使用阿里巴巴icon库](https://www.toutiao.com/a6809520001628766723/)
 - [go runtime 简析](https://www.toutiao.com/a6801023322407567885/)
+- [GPT4 帮我写正则表达式](https://www.toutiao.com/article/7216325354053468684/)
 
 <br />
 
