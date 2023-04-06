@@ -17,6 +17,7 @@ Python、PHP、Markdown与其他脚本语言
 - [Python3之数组（array）](https://cloud.tencent.com/developer/article/1406351)
 - [Python——contains方法](https://blog.csdn.net/m0_52162042/article/details/121544313)
 - [Python offers many ways to substring a string. This is often called "slicing".](https://www.freecodecamp.org/news/how-to-substring-a-string-in-python/)
+- [Python Trim:从字符串中删除空格](https://devpress.csdn.net/python/62fba699c6770329308009c6.html)
 - [python中的None与NULL用法说明](https://blog.csdn.net/liuqinhou/article/details/126192298)
 - [python中base64编码与解码](https://www.cnblogs.com/zanjiahaoge666/p/7242642.html)
 - [python获取当前目录路径和文件](https://blog.csdn.net/u012808186/article/details/118540693)（还有一种是：**`sys.path[0]`**）
