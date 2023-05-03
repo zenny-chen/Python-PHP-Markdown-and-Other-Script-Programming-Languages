@@ -25,6 +25,7 @@ Python、PHP、Markdown与其他脚本语言
 - [Python列表解析式（List Comprehension）](https://blog.csdn.net/qdPython/article/details/128020837)
 - [python中的None与NULL用法说明](https://blog.csdn.net/liuqinhou/article/details/126192298)
 - [python中base64编码与解码](https://www.cnblogs.com/zanjiahaoge666/p/7242642.html)
+- [python 获取文件名后缀3种方法](https://blog.csdn.net/u014651560/article/details/129672575)
 - [python获取当前目录路径和文件](https://blog.csdn.net/u012808186/article/details/118540693)（还有一种是：**`sys.path[0]`**）
 - [Python: Copy a File \(4 Different Ways\)](https://datagy.io/python-copy-file/)
 - [python shutil.move 移动文件](https://blog.csdn.net/seanblog/article/details/78885423)
