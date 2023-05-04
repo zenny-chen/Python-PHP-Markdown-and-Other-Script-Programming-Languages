@@ -29,6 +29,7 @@ Python、PHP、Markdown与其他脚本语言
 - [python中base64编码与解码](https://www.cnblogs.com/zanjiahaoge666/p/7242642.html)
 - [python 获取文件名后缀3种方法](https://blog.csdn.net/u014651560/article/details/129672575)
 - [python获取当前目录路径和文件](https://blog.csdn.net/u012808186/article/details/118540693)（还有一种是：**`sys.path[0]`**）
+- [用python创建文件夹](https://blog.csdn.net/python_xiaofeng/article/details/125463779)
 - [Python: Copy a File \(4 Different Ways\)](https://datagy.io/python-copy-file/)
 - [python shutil.move 移动文件](https://blog.csdn.net/seanblog/article/details/78885423)
 - [Python os.rename()函数：重命名文件或目录](http://c.biancheng.net/view/4943.html)
