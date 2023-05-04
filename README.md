@@ -11,6 +11,7 @@ Python、PHP、Markdown与其他脚本语言
 - [将Python代码转为C代码的神奇——Nuitka](http://nuitka.net/doc/user-manual.html)
 - [Python 判断变量是否是 None 的三种写法](https://www.toutiao.com/a6756516715061838343/)
 - [Python变量类型声明](https://blog.csdn.net/u013255730/article/details/113096194)
+- [python的lambda表达式详细讲解](https://blog.csdn.net/weixin_46654114/article/details/125640201)
 - [python 中pack和unpack的用法](https://blog.csdn.net/fengjinghuanian/article/details/83994585)
 - [python--常用的十进制、16进制、字符串、字节串之间的转换](https://www.cnblogs.com/fqfanqi/p/7900758.html)
 - [Python将字节串转为整数](https://blog.csdn.net/wbdxz/article/details/82153550)
