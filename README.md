@@ -7,6 +7,7 @@ Python、PHP、Markdown与其他脚本语言
 - [Format Strings for PyArg_ParseTuple()](http://www.wingware.com/psupport/python-manual/1.5/ext/parseTuple.html)
 - [The Py_BuildValue() Function](http://www.wingware.com/psupport/python-manual/1.5/ext/buildValue.html)
 - [2018年，10个最好用的Python集成开发环境（IDE）](https://mp.weixin.qq.com/s/AnqgTBNKmtNng7T-0-eRoQ)
+- [python中获取python版本号的方法](https://blog.csdn.net/juluwangriyue/article/details/122583471)
 - [将Python代码转为C代码的神奇——Nuitka](http://nuitka.net/doc/user-manual.html)
 - [Python 判断变量是否是 None 的三种写法](https://www.toutiao.com/a6756516715061838343/)
 - [Python变量类型声明](https://blog.csdn.net/u013255730/article/details/113096194)
@@ -39,7 +40,7 @@ Python、PHP、Markdown与其他脚本语言
 - [理解Python的协程(Coroutine)](https://www.jianshu.com/p/84df78d3225a)
 - [Python协程深入理解](https://www.cnblogs.com/zhaof/p/7631851.html)
 - [python编程_秒懂if \_\_name\_\_ == "\_\_main\_\_"](https://www.toutiao.com/a6753082183482606087/)
-- [Python subprocess模块](https://www.cnblogs.com/zhou2019/p/10582716.html)
+- [Python subprocess模块](https://www.cnblogs.com/zhou2019/p/10582716.html)（执行指定应用进程，使用时需要 **`import subprocess`**）
 - [拒绝手动下载，python网络爬虫下载图灵数学统计学丛书](https://www.toutiao.com/i6504976182029582861/)
 - [PHP中文手册](http://tool.oschina.net/apidocs/apidoc?api=php-zh)
 - [利用php调用C语言——使用扩展函数](http://c.biancheng.net/cpp/html/1401.html)
