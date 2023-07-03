@@ -178,7 +178,7 @@ print("你好，世界！")
 
 如果不太懂，可以直接看[实例讲解](#example)，把 Markdown 格式文章结合显示效果研究一下。
 ```
-- Gitlab的MD编辑器实现页内跳转：
+- Github和Gitlab的MD编辑器实现页内跳转：
 ```markdown
 [to_be_link](#id_name)
  
