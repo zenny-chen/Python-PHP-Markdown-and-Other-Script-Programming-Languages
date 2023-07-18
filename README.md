@@ -150,7 +150,7 @@ print("你好，世界！")
 - [Syntax highlighting in markdown](https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown)
 - [GitHub上README.md编写教程（基本语法）](https://blog.csdn.net/m0_37885651/article/details/86642692)
 - Github、Gitlab等可支持NASM汇编语法高亮，即 **`nasm`**。
-- GitHub支持LLVM-IR、SPIR-V等中间语言，可使用 **`llvm`**。
+- GitHub支持LLVM-IR、SPIR-V等中间语言，可使用 **`llvm`**。CSDN则更偏好使用 **`perl`**。
 - [How to add color to Github's README.md file](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
 - [Markdown 语言中空格的几种表示方法](https://blog.csdn.net/qq_34719188/article/details/84205243)
 - CSDN的MD编辑器实现页内跳转：
