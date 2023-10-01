@@ -46,7 +46,7 @@ Python、PHP、Markdown与其他脚本语言
 - [拒绝手动下载，python网络爬虫下载图灵数学统计学丛书](https://www.toutiao.com/i6504976182029582861/)
 - [PHP中文手册](http://tool.oschina.net/apidocs/apidoc?api=php-zh)
 - [利用php调用C语言——使用扩展函数](http://c.biancheng.net/cpp/html/1401.html)
--  [php调用C函数的一种方式——通过执行命令行](https://www.cnblogs.com/freeweb/p/5645699.html)
+- [php调用C函数的一种方式——通过执行命令行](https://www.cnblogs.com/freeweb/p/5645699.html)
 - [PHP、Javascript 对lambda表达式的支持](https://blog.csdn.net/m0_37968109/article/details/77182593)
 - [PHP: 深入pack/unpack 字节序](https://www.cnblogs.com/andydao/p/4200662.html)
 - [PHP中pack、unpack的详细用法](https://segmentfault.com/a/1190000008305573)
@@ -153,6 +153,7 @@ print("你好，世界！")
 - GitHub支持LLVM-IR、SPIR-V等中间语言，可使用 **`llvm`**。CSDN则更偏好使用 **`perl`**。
 - [How to add color to Github's README.md file](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
 - [Markdown 语言中空格的几种表示方法](https://blog.csdn.net/qq_34719188/article/details/84205243)
+- [Markdoc：新一代 Markdown 文档内容发布框架！](https://www.toutiao.com/article/7221912422653968951/)
 - CSDN的MD编辑器实现页内跳转：
 ```markdown
 <a id="article_top"></a>文章顶部
@@ -186,3 +187,4 @@ print("你好，世界！")
 标题：
 ## 2.aaa <a name="id_name"></a>
 ```
+
