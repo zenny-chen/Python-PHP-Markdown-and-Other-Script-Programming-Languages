@@ -146,6 +146,8 @@ print("你好，世界！")
 ## Markdown语法相关
 
 - [Learning-Markdown (Markdown 入门参考)](http://blog.didispace.com/books/learning-markdown/)
+- 上标：`<sup> </sup>`（superscript）
+- 下标：`<sub> </sub>`（subscript）
 - [GitHub所支持的语法高亮的编程语言](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)（如果存在 **`aliases`** 字段，则使用该字段下列出的某个标识符来标识此编程语言。）
 - [Syntax highlighting in markdown](https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown)
 - [GitHub上README.md编写教程（基本语法）](https://blog.csdn.net/m0_37885651/article/details/86642692)
