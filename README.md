@@ -9,6 +9,7 @@ Python、PHP、Markdown与其他脚本语言
 - [2018年，10个最好用的Python集成开发环境（IDE）](https://mp.weixin.qq.com/s/AnqgTBNKmtNng7T-0-eRoQ)
 - [python中获取python版本号的方法](https://blog.csdn.net/juluwangriyue/article/details/122583471)
 - [将Python代码转为C代码的神奇——Nuitka](http://nuitka.net/doc/user-manual.html)
+- [Python基础语法入门\(第四天\)——运算符](https://zhuanlan.zhihu.com/p/630652223)
 - [Python 判断变量是否是 None 的三种写法](https://www.toutiao.com/a6756516715061838343/)
 - [Python变量类型声明](https://blog.csdn.net/u013255730/article/details/113096194)
 - [python的lambda表达式详细讲解](https://blog.csdn.net/weixin_46654114/article/details/125640201)
