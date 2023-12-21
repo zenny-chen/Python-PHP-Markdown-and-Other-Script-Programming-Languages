@@ -14,6 +14,7 @@ Python、PHP、Markdown与其他脚本语言
 - [Python变量类型声明](https://blog.csdn.net/u013255730/article/details/113096194)
 - [python的lambda表达式详细讲解](https://blog.csdn.net/weixin_46654114/article/details/125640201)
 - [python 中pack和unpack的用法](https://blog.csdn.net/fengjinghuanian/article/details/83994585)
+- [Converting Float to IEEE754](https://stackoverflow.com/questions/52600983/converting-float-to-ieee754)
 - [python--常用的十进制、16进制、字符串、字节串之间的转换](https://www.cnblogs.com/fqfanqi/p/7900758.html)
 - [python怎么表示范围？](https://www.ycpai.cn/python/iczvtpT4.html)
 - [Python将字节串转为整数](https://blog.csdn.net/wbdxz/article/details/82153550)
