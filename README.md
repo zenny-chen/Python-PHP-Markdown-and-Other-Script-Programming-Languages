@@ -24,6 +24,7 @@ Python、PHP、Markdown与其他脚本语言
 - [python中时间、日期、时间戳的转换](https://www.cnblogs.com/jfl-xx/p/8024596.html)
 - [Python线程创建的两种方法](https://blog.csdn.net/nicholas_dlut/article/details/80800396)
 - [Python3之数组（array）](https://cloud.tencent.com/developer/article/1406351)
+- [python创建一个指定长度的数组](https://blog.51cto.com/u_16175492/6762406)
 - [Python——contains方法](https://blog.csdn.net/m0_52162042/article/details/121544313)
 - [详解 Python 中的 filter\(\) 函数](https://blog.csdn.net/pythonandaiot/article/details/121960641)
 - [Python offers many ways to substring a string. This is often called "slicing".](https://www.freecodecamp.org/news/how-to-substring-a-string-in-python/)
