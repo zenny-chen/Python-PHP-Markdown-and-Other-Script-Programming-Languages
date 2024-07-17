@@ -11,6 +11,7 @@ Python、PHP、Markdown与其他脚本语言
 - [将Python代码转为C代码的神奇——Nuitka](http://nuitka.net/doc/user-manual.html)
 - [Python基础语法入门\(第四天\)——运算符](https://zhuanlan.zhihu.com/p/630652223)
 - [Python 判断变量是否是 None 的三种写法](https://www.toutiao.com/a6756516715061838343/)
+- [**`not`** Operator in Python \| Boolean Logic](https://www.geeksforgeeks.org/python-not-keyword/)
 - [Python变量类型声明](https://blog.csdn.net/u013255730/article/details/113096194)
 - Python中使用与C语言兼容的基本类型：[ctypes — A foreign function library for Python](https://docs.python.org/3/library/ctypes.html)
 - [python的lambda表达式详细讲解](https://blog.csdn.net/weixin_46654114/article/details/125640201)
