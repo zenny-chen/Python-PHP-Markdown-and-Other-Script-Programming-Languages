@@ -46,6 +46,7 @@ Python、PHP、Markdown与其他脚本语言
 - [Python open函数详解](https://blog.csdn.net/weixin_44449116/article/details/122799242)
 - [在Python3里有的变量前面有个\*号，或许你不知道，没关系，看文](https://www.toutiao.com/a6728656306883789316)
 - [Python里面这些点，据说80%的新手学习都会一脸懵逼](https://www.toutiao.com/i6754640229165974030/)
+- [30 秒内学会 Python中的 @ 操作符](https://www.toutiao.com/article/7412823481626231346/)
 - [理解python中yield关键字](https://blog.csdn.net/libbyandhelen/article/details/78957369)
 - [理解Python的协程(Coroutine)](https://www.jianshu.com/p/84df78d3225a)
 - [Python协程深入理解](https://www.cnblogs.com/zhaof/p/7631851.html)
