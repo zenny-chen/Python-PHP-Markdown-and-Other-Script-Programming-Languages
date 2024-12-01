@@ -50,6 +50,7 @@ Python、PHP、Markdown与其他脚本语言
 - [理解python中yield关键字](https://blog.csdn.net/libbyandhelen/article/details/78957369)
 - [理解Python的协程(Coroutine)](https://www.jianshu.com/p/84df78d3225a)
 - [Python协程深入理解](https://www.cnblogs.com/zhaof/p/7631851.html)
+- [Python异步编程库asyncio使用指北](https://www.toutiao.com/article/7439956468080476684/)
 - [python编程_秒懂if \_\_name\_\_ == "\_\_main\_\_"](https://www.toutiao.com/a6753082183482606087/)
 - [Python subprocess模块](https://www.cnblogs.com/zhou2019/p/10582716.html)（执行指定应用进程，使用时需要 **`import subprocess`**）
 - [拒绝手动下载，python网络爬虫下载图灵数学统计学丛书](https://www.toutiao.com/i6504976182029582861/)
