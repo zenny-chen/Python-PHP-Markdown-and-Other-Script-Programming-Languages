@@ -53,6 +53,7 @@ Python、PHP、Markdown与其他脚本语言
 - [Python异步编程库asyncio使用指北](https://www.toutiao.com/article/7439956468080476684/)
 - [python编程_秒懂if \_\_name\_\_ == "\_\_main\_\_"](https://www.toutiao.com/a6753082183482606087/)
 - [Python subprocess模块](https://www.cnblogs.com/zhou2019/p/10582716.html)（执行指定应用进程，使用时需要 **`import subprocess`**）
+- [**Anaconda**](https://www.anaconda.com/download) 环境中安装 **ninja**、**MKL** 库等工具目录在：**`%USERPROFILE%/anaconda3/Library/bin/`**。
 - [拒绝手动下载，python网络爬虫下载图灵数学统计学丛书](https://www.toutiao.com/i6504976182029582861/)
 - [PHP中文手册](http://tool.oschina.net/apidocs/apidoc?api=php-zh)
 - [利用php调用C语言——使用扩展函数](http://c.biancheng.net/cpp/html/1401.html)
