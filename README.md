@@ -56,6 +56,7 @@ Python、PHP、Markdown与其他脚本语言
 - [**Anaconda**](https://www.anaconda.com/download) 环境中安装 **ninja**、**MKL** 库等工具目录在：**`%USERPROFILE%/anaconda3/Library/bin/`**。
 - [**Anaconda**](https://www.anaconda.com/download) 在 Ubuntu 系统环境中默认安装在 **`/home/zenny-chen/anaconda3/`** 目录下，注意别用 **`sudo`** 模式安装。
 - [Ubuntu系统部署Anaconda环境及Python语言的详细流程](https://www.cnblogs.com/y4353536666/p/18759902)
+- [编译 PyTorch 时引发：version `GLIBCXX_3.4.30‘ not found解决](https://blog.csdn.net/2301_77554343/article/details/141465626)
 - Anaconda 安装 Jupyter Notebook：**`conda install jupyter`** （可以通过可选的独立环境：**`conda activate myenv`**）。启动 notebook：**`jupyter notebook`**。
 - [Python·Jupyter Notebook各种使用方法](https://www.cnblogs.com/wu-chao/p/8319951.html)
 - [Jupyter Notebook中百分号cmd和感叹号cmd的区别](https://blog.csdn.net/weixin_45772874/article/details/121268613)
