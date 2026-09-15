@@ -1,5 +1,6 @@
 # Python, PHP, Markdown and Other Script Programming Languages
-Python、PHP、Markdown与其他脚本语言
+
+Python、PHP、Markdown 与其他脚本语言
 
 - [Python（2.x）](https://docs.python.org/2/)
 - [最新稳定版本的Python 3.x的相关文档](https://docs.python.org/3/)
@@ -75,7 +76,6 @@ Python、PHP、Markdown与其他脚本语言
 - [go runtime 简析](https://www.toutiao.com/a6801023322407567885/)
 - [GPT4 帮我写正则表达式](https://www.toutiao.com/article/7216325354053468684/)
 - [连 Markdown 都不放过，Rust 在前端基建杀疯了，万物皆可“锈化”！](https://www.toutiao.com/article/7680822985799893558/)
-- [Mermaid](https://mermaid.js.org/)
 
 <br />
 
@@ -164,6 +164,7 @@ print("你好，世界！")
 
 ## Markdown语法相关
 
+- [Mermaid](https://mermaid.js.org/)
 - [Learning-Markdown (Markdown 入门参考)](http://blog.didispace.com/books/learning-markdown/)
 - 上标：`<sup> </sup>`（superscript）
 - 下标：`<sub> </sub>`（subscript）
@@ -174,10 +175,11 @@ print("你好，世界！")
 - Github、Gitlab等可支持NASM汇编语法高亮，即 **`nasm`**。
 - GitHub支持LLVM-IR、SPIR-V等中间语言，可使用 **`llvm`**。CSDN则更偏好使用 **`perl`**。MSVC的 Markdown 编辑器更偏好使用 **`batch`**。
 - [How to add color to Github's README.md file](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
-- [markdown中如何绘制嵌套复杂表格](https://codeleading.com/article/15156516111/)
+- [在Markdown中实现复杂表格功能（胎教级）](https://blog.csdn.net/Aqua_chang/article/details/147068692)
 - [Markdown 语言中空格的几种表示方法](https://blog.csdn.net/qq_34719188/article/details/84205243)
 - [Markdoc：新一代 Markdown 文档内容发布框架！](https://www.toutiao.com/article/7221912422653968951/)
 - CSDN的MD编辑器实现页内跳转：
+
 ```markdown
 <a id="article_top"></a>文章顶部
 
