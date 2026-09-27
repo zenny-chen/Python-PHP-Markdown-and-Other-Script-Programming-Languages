@@ -182,7 +182,11 @@ print("你好，世界！")
 - [用LaTeX优雅地绘制数字电路](https://zhuanlan.zhihu.com/p/137847051)
 
 $$
-\begin{pmatrix} a & b \\ c & d \end{pmatrix}
+\begin{pmatrix}
+a & b
+\\
+c & d
+\end{pmatrix}
 $$
 
 - CSDN的MD编辑器实现页内跳转：
