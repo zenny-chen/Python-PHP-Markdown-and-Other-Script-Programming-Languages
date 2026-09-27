@@ -182,17 +182,7 @@ print("你好，世界！")
 - [用LaTeX优雅地绘制数字电路](https://zhuanlan.zhihu.com/p/137847051)
 
 $$
-\begin{circuitikz}[scale=0.7, transform shape]
-    \draw (3,5.5) node[and port, anchor=out] (and1) {};
-    \draw (3.5,4) node[xnor port, anchor=out] (xor1) {};
-    \draw (3,2.5) node[and port, anchor=out] (and2) {};
-    \draw (and1.bin 1) node[notcirc,left] {};
-    \draw (and2.bin 1) node[notcirc,left] {};
-    \draw (and2.in 1) |- (and1.in 2);
-    \draw (and1.in 1) -- ++(-0.5,0) |- (and2.in 2);
-    \draw let \p1=(xor1.in 1),\p2=(and1.in 1) in (\x1,\y1) to[short,-*] (\x2,\y1) node (a) {};
-    \draw let \p1=(xor1.in 2),\p2=(and2.in 1) in (\x1,\y1) to[short,-*] ({\x2-0.5cm},\y1) node (b) {};
-\end{circuitikz}
+\begin{pmatrix} a & b \\ c & d \end{pmatrix}
 $$
 
 - CSDN的MD编辑器实现页内跳转：
