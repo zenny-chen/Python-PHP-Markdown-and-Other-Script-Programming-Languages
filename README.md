@@ -179,6 +179,7 @@ print("你好，世界！")
 - [Markdown 语言中空格的几种表示方法](https://blog.csdn.net/qq_34719188/article/details/84205243)
 - [Markdoc：新一代 Markdown 文档内容发布框架！](https://www.toutiao.com/article/7221912422653968951/)
 - [Markdown/LaTeX 数学公式和符号表](https://zhuanlan.zhihu.com/p/450465546)（在 Markdown 中使用数学符号通常通过 LaTeX 语法实现，行内公式用 `$...$`，块级公式用 `$$...$$` 包裹。）
+- [电子工程符号大全](https://symboldb.org/zh/engineering-symbol/)
 - [用LaTeX优雅地绘制数字电路](https://zhuanlan.zhihu.com/p/137847051)
 
 $$
