@@ -178,6 +178,23 @@ print("你好，世界！")
 - [在Markdown中实现复杂表格功能（胎教级）](https://blog.csdn.net/Aqua_chang/article/details/147068692)
 - [Markdown 语言中空格的几种表示方法](https://blog.csdn.net/qq_34719188/article/details/84205243)
 - [Markdoc：新一代 Markdown 文档内容发布框架！](https://www.toutiao.com/article/7221912422653968951/)
+- [Markdown/LaTeX 数学公式和符号表](https://zhuanlan.zhihu.com/p/450465546)（在 Markdown 中使用数学符号通常通过 LaTeX 语法实现，行内公式用 `$...$`，块级公式用 `$$...$$` 包裹。）
+- [用LaTeX优雅地绘制数字电路](https://zhuanlan.zhihu.com/p/137847051)
+
+$$
+\begin{circuitikz}[scale=0.7, transform shape]
+    \draw (3,5.5) node[and port, anchor=out] (and1) {};
+    \draw (3.5,4) node[xnor port, anchor=out] (xor1) {};
+    \draw (3,2.5) node[and port, anchor=out] (and2) {};
+    \draw (and1.bin 1) node[notcirc,left] {};
+    \draw (and2.bin 1) node[notcirc,left] {};
+    \draw (and2.in 1) |- (and1.in 2);
+    \draw (and1.in 1) -- ++(-0.5,0) |- (and2.in 2);
+    \draw let \p1=(xor1.in 1),\p2=(and1.in 1) in (\x1,\y1) to[short,-*] (\x2,\y1) node (a) {};
+    \draw let \p1=(xor1.in 2),\p2=(and2.in 1) in (\x1,\y1) to[short,-*] ({\x2-0.5cm},\y1) node (b) {};
+\end{circuitikz}
+$$
+
 - CSDN的MD编辑器实现页内跳转：
 
 ```markdown
